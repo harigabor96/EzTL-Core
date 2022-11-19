@@ -2,7 +2,7 @@ package org.eztl.core.etl
 
 import org.apache.spark.sql.DataFrame
 
-trait tGenericPipeline {
+trait GenericPipeline {
 
   def execute(): Unit
 

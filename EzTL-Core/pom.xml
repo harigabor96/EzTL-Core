@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.eztl</groupId>
   <artifactId>eztl-core</artifactId>
-  <version>1.0</version>
+  <version>1.0.1</version>
   <inceptionYear>2008</inceptionYear>
   <properties>
     <scala.version>2.13.6</scala.version>
